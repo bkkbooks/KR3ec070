@@ -1,0 +1,44 @@
+canonical_identifier: bkk:krp/KR3ec070/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ec070/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 藥症忌宜
+  identifiers:
+    krp: KR3ec070
+  tags:
+    kr-categories: KR3ec
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ec070.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ec070_000-jc.yaml, hash: 'sha256:abbbf4080c3532dffbed475998880739323d44c620af63d1deb6e2b5e5463eb8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ec070_000-jc.markers.yaml, hash: 'sha256:e2c46c2d5d0f1b1c40d0156705746209c78e964268d4ff939151310cec8213e7'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ec070_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 13372
+  label: 正文
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ec070_jc_000-d2d1562
+    span:
+    - body
+    - 12689
+    - 13372
+  label: 諸病應忌藥總例
+  type: section
+  level: 2
+hash: sha256:01884fd5bb8aeb0feeae1f64a9ab7f78c0875496b42af0e664c413131c8fbc00
