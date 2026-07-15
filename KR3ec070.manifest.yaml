@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ec070/v1
 canonical_location: https://kanripo.org/bkk/KR3ec070/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 藥症忌宜
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ec070_000.yaml, hash: 'sha256:abbbf4080c3532dffbed475998880739323d44c620af63d1deb6e2b5e5463eb8'}
+  - {seq: 0, filename: KR3ec070_000.yaml, hash: 'sha256:dd3317a22be7ae2fa3ae923224d72a0e864df11a891474c1cfc6563f2b892e89'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec070_000.markers.yaml, hash: 'sha256:1c804b7e4c34124354f785e0e603cf92500254f6cb7ddd468f620e38892088f6'}
+  - {seq: 0, role: markers, filename: assets/KR3ec070_000.markers.yaml, hash: 'sha256:f84f17c45b2351332e3b36035198b6a833a31fa5203683d0f2cda7b47477fdd8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,7 @@ table_of_contents:
   label: 諸病應忌藥總例
   type: section
   level: 2
-hash: sha256:2abb5abe4f79f26198763ae8baf982ba508b8d5f22ef276e8e7edfaaa64aa5aa
+hash: sha256:0b89e184ef61862ad6699a4afbf0ed330c3f818e6e83dfb01f0347e3ee8bfbea
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
