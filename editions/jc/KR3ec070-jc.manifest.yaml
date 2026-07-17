@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ec070_000-jc.yaml, hash: 'sha256:abbbf4080c3532dffbed475998880739323d44c620af63d1deb6e2b5e5463eb8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec070_000-jc.markers.yaml, hash: 'sha256:e2c46c2d5d0f1b1c40d0156705746209c78e964268d4ff939151310cec8213e7'}
+  - {seq: 0, role: markers, filename: assets/KR3ec070_000-jc.markers.yaml, hash: 'sha256:c71d66b89a68cae097eb06de1e43ab8d508bbd803b6db1f37e52d3050daa45e5'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,4 +41,4 @@ table_of_contents:
   label: 諸病應忌藥總例
   type: section
   level: 2
-hash: sha256:01884fd5bb8aeb0feeae1f64a9ab7f78c0875496b42af0e664c413131c8fbc00
+hash: sha256:fdff8c045a8afe52cdb03516ba28232bdfa2fa39d5aac16d4ecba5b17ed2214b

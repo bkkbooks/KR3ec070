@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ec070_000.yaml, hash: 'sha256:dd3317a22be7ae2fa3ae923224d72a0e864df11a891474c1cfc6563f2b892e89'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ec070_000.markers.yaml, hash: 'sha256:f84f17c45b2351332e3b36035198b6a833a31fa5203683d0f2cda7b47477fdd8'}
+  - {seq: 0, role: markers, filename: assets/KR3ec070_000.markers.yaml, hash: 'sha256:c7ac884c75d000aab5aacec52edf6769de8d880018bcaf1bc943dffb8e091bf3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -41,7 +41,7 @@ table_of_contents:
   label: 諸病應忌藥總例
   type: section
   level: 2
-hash: sha256:0b89e184ef61862ad6699a4afbf0ed330c3f818e6e83dfb01f0347e3ee8bfbea
+hash: sha256:ee1a78e661f16f5b6fe678ebec698e693bdc828c87a9900389b1d6f22e3237bd
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
